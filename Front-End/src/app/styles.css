@@ -1,0 +1,28 @@
+@import 'https://fonts.googleapis.com/icon?family=Material+Icons';
+@import '~@angular/material/prebuilt-themes/indigo-pink.css';
+
+body {
+ margin: 0;
+ font-family: Kanit, sans-serif;
+ background-color: #10151B;
+}
+@font-face {
+  font-family: 'SegoeUI';
+  src: url('assets/font/SegoeUI.ttf');
+}
+.fill-remaining-space {
+  flex: 1 1 auto;
+}
+
+mat-toolbar{
+  
+  -webkit-transition: background-color 500ms ease-out ;
+    -moz-transition: background-color 500ms ease-out ;
+    -o-transition: background-color 500ms ease-out ;
+    transition: background-color 500ms ease-out ;
+    min-height: 5vh;
+    max-height: 10vh;
+}
+mat-toolbar:hover{
+  background-color: #1566b8;
+}
