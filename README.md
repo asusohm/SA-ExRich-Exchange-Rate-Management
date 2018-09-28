@@ -17,8 +17,8 @@ Exchange Rate Management
             *       '--> controller.service.ts           // เกี่ยวกับ การเชื่องต่อระหว่าง Front-End กับ Back-End
                    
 # Path Back-End
-  *'--> Controller                                       // มีตัวอย่างการสร้าง @GetMap @Post @Put @Delele
-  *'--> Entity                                           // มีตัวอย่างการสร้าง @ManyToOne แบบ โดยไม่ต้องสร้าง @OneToMany กับอีกคลาสที่ Join กัน 
-  *'--> Repository
-  *'--> ExrichServerApplication.java                     // มีตัวอย่างการ Insert ข้อมูลล่วงหน้าตรงใต้ 	@Component
+*  '--> Controller                                       // มีตัวอย่างการสร้าง @GetMap @Post @Put @Delele
+*  '--> Entity                                           // มีตัวอย่างการสร้าง @ManyToOne แบบ โดยไม่ต้องสร้าง @OneToMany กับอีกคลาสที่ Join กัน 
+*  '--> Repository
+*  '--> ExrichServerApplication.java                     // มีตัวอย่างการ Insert ข้อมูลล่วงหน้าตรงใต้ 	@Component
 
