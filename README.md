@@ -1,7 +1,7 @@
 # SA-ExRich-Exchange-Rate-Management
 Exchange Rate Management
 
-#หมายเหตุ Code ทั้ง Front-End และ Back-End ไม่สามารถ Download แล้วไป run (ng serve && mvnw spring-boot:run) ได้ เพราะเอามาแค่ไฟล์บางส่วนที่เป็นตัวอย่างการเข้าถึงข้อมูล
+##หมายเหตุ Code ทั้ง Front-End และ Back-End ไม่สามารถ Download แล้วไป run (ng serve && mvnw spring-boot:run) ได้ เพราะเอามาแค่ไฟล์บางส่วนที่เป็นตัวอย่างการเข้าถึงข้อมูล
 
 # Path Front-End
 *   --> src
