@@ -8,8 +8,8 @@ Exchange Rate Management
     *   '--> app
          *  '--> component
             *      '--> update-currency                              
-            *           '--> update-currency.component.html  // หน้า Angular UI แบที่ใช้ Material Design เกือบหมด  
-            *           '--> update-currency.component.ts    // Typescript ในการติดต่อระหว่าง Angular UI กับ controller.service.ts เพื่อที่จะ
+               *        '--> update-currency.component.html  // หน้า Angular UI แบที่ใช้ Material Design เกือบหมด  
+               *        '--> update-currency.component.ts    // Typescript ในการติดต่อระหว่าง Angular UI กับ controller.service.ts เพื่อที่จะ
             *                //  Get(คือ Select ใน (SQL)),Post(คือ Insert ใน (SQL)),Delete,PUT(คือ Update ใน (SQL))
             *  
          *  '--> service
